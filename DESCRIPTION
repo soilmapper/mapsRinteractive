@@ -2,7 +2,7 @@ Package: mapsRinteractive
 Type: Package
 Title: Local Adaptation and Evaluation of Digital Soil Maps
 Version: 1.0.0
-Author: Kristin Piikki & Mats Söderström
+Author: Kristin Piikki, Mats Söderström & John Mutua
 Maintainer: Kristin Piikki <kristin.piikki@slu.se>
 Description: Local adaptation and evaluation of digital soil maps in raster 
     format by use of point location soil property data.
